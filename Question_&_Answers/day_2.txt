@@ -1,0 +1,20 @@
+GO_STP_7716
+------------------------------------------------------
+
+1. What are an immutable and mutable objects in Python?
+-->In python mutable objects can be changes after creation while immutable objects cannot be changed once       created. ex.mutable:list, dict,etc.; immutable:string,tuples,etc.
+
+2. What is a loop statement in Python?
+-->loops are the statements which execute certain number of times of until certain condition evaluates to true. Loop statements helps to shorten the code.
+
+3. What is indentation in Python?
+-->Indentation refers to the spaces at the beginning of line. It is used to tell python that this line belongs to certain block of code.
+
+4. How to check multiple conditions in Python?
+-->We use conditional statements like if, if else, if elif else, etc to check multiple conditions.
+
+5. What is Pass Statement in Python
+-->Pass statement in python is like placeholder for empty line. It is used to do nothing in that perticular line or block of code.
+
+6. What are the control statements in Python?
+-->control statements helps to decide whether to run code below it or not. 

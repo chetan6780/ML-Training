@@ -1,0 +1,23 @@
+1. What is Machine Learning?
+-->Machine learning is a branch of artificial intelligence(AI) focused on building applications that learn from data and improve their accuracy over time without being programmed to do so.
+
+2. What is Data Science?
+-->Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data, and apply knowledge and actionable insights from data across a broad range of application domains.
+
+3. What is Deep Learning?
+-->Deep learning is a subset of machine learning in which machine learns on artificial neural networks with representation learning.
+
+4. Why Python in Machine Learning?
+-->In python, it is easier to implement machine learning algorithms due to its simplicity and also large number of libraries are available in python to do machine learning jod easier.
+
+5. What is Google Colab?
+-->Google Colab is platform where we can implement our code without installing any libraries.
+
+6. Describe Life Cycle of Data Science Project?
+--> 1. Business Understanding 2. Data Collection 3. Data Preparation 4. Exploratory Data Analysis (EDA) 5. Modelling 6. Model Evaluation 7. Model Deployment 
+
+7. What are the Different Types of Machine Learning?
+-->There are three different types of Machine Learning
+1. supervised learning
+2. unsupervised learning
+3. reinforcement learning
