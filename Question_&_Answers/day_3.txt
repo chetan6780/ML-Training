@@ -1,0 +1,27 @@
+GO_STP_7716
+------------------------------------------------------
+
+1. Difference between list and tuple?
+-->The most important difference in the list and tuple is that list is mutable which means, items inside the list can be changed at any time but in tuples, we are not able to change the items once created is are immutable.
+
+2. What are immutable and mutable objects in Python?
+-->Immutable: we can not change the items inside the objects once created. Ex. tuple
+Mutable: we can change the items inside the objects at any time. Ex. list
+
+3. How to access items in a dictionary python?
+-->we can use dict.items() to access the items in the dictionary. we can also use dict.keys() to get the keys and dict.values() to get the values in the dictionary.
+
+4. What is set and why use it?
+-->set is an inbuilt data type in python. It has only unique values present inside it so it becomes an advantage sometimes and the same is the reason to use it.
+
+5. What is frozenset?
+-->Frozenset is the same as a set but it doesn't allow to change the items inside it.
+
+6. Difference between append and extend?
+-->Append adds single element while extend can add multiple elements inside the list.
+
+7. Difference between indexing and Slicing?
+-->Indexing means getting elements using index. Slicing mean getting subset of object.
+
+8. How to find the largest and lowest value in the list?
+-->max() is used to get maximum value in the list ans min() is used to get minimum value in the list.
