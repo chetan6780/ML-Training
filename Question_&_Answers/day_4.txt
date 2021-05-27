@@ -1,0 +1,24 @@
+1. What is Numpy?
+-->NumPy is a library in Python , adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on the arrays.
+
+2. Why NumPy is used in Python?
+-->NumPy used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices.
+
+3. Where is NumPy used?
+-->It can be utilised to perform a number of mathematical operations on arrays such as trigonometric, statistical, and algebraic routines.
+
+4. Difference between numpy and Python List.
+-->1.List consumes more space than numpy array while numpy array are space efficient.
+2.Numpy arrays are faster as compared to List.
+
+5. How to convert 1D Numpy array to 2D Numpy array.
+-->To convert 1D Numpy array to 2D Numpy array we use reshape() method of Numpy.
+
+6. How to find the memory size of any array?
+-->numpy.reshape(array, new_shape, order) 
+
+7. What is use of Pandas?
+-->Pandas is mainly used for data analysis. Pandas allows various data manipulation operations such as merging, reshaping, selecting, as well as data cleaning, and data wrangling features.
+
+8. What is Series in Pandas?
+-->Series is a one-dimensional labeled array capable of holding data of any type (integer, string, float, python objects, etc.). The axis labels are collectively called index.
