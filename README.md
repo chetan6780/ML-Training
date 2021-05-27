@@ -8,7 +8,7 @@
 | [3][y_3] | [Day-3](Question_%26_Answers/day_3.txt) | [PY_2](Assignments/PY_2.ipynb)| [Get Pdf][p_2]
 | [4][y_4] | [Day-4](Question_%26_Answers/day_4.txt) | [PY_3](Assignments/PY_3.ipynb)| [Get Pdf][p_3]
 
-<!-- Links for notebooks -->
+<!-- Links for youtube classes -->
 [y_1]: https://youtu.be/DaRGQ8Py5dU
 [y_2]: https://youtu.be/pveeAfZnvKo
 [y_3]: https://youtu.be/t1v8A1mu_fc
