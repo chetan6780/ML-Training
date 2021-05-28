@@ -7,7 +7,7 @@
 | [2][y_2] | [Day-2](Question_%26_Answers/day_2.txt) | [PY_1](Assignments/PY_1.ipynb)| [Get Pdf][p_1] |
 | [3][y_3] | [Day-3](Question_%26_Answers/day_3.txt) | [PY_2](Assignments/PY_2.ipynb)| [Get Pdf][p_2] |
 | [4][y_4] | [Day-4](Question_%26_Answers/day_4.txt) | [PY_3](Assignments/PY_3.ipynb)| [Get Pdf][p_3] |
-| [5][y_5] | [Day-5](Question_%26_Answers/day_5.txt) | [DS_1](Assignments/DS_1.ipynb)<br/>[DS_2](Assignments/DS_2.ipynb)| [Get Pdf][p_4] <br/> [Get Pdf]() |
+| [5][y_5] | [Day-5](Question_%26_Answers/day_5.txt) | [NumPy](Assignments/DS_1.ipynb)<br/>[Pandas](Assignments/DS_2.ipynb)| [Get Pdf][p_4] <br/> [Get Pdf]() |
 
 <!-- Links for youtube classes -->
 [y_1]: https://youtu.be/DaRGQ8Py5dU
