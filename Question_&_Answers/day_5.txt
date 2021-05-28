@@ -1,0 +1,31 @@
+1. Define Python Pandas
+-->Pandas is an open source Python package that is most widely used for data science/data analysis and machine learning tasks. In particular, it offers data structures and operations for manipulating numerical tables and time series.
+
+2. What Are The Different Types Of Data Structures In Pandas?
+--> Different Types Of Data Structures In Pandas are:
+- Series(1d homogeneous array)
+- DataFrame(2d labeled heterogeneous array) 
+- Panel(general 3d array)
+
+3. Define Dataframe In Pandas
+-->A Data frame is a two-dimensional data structure. Data is aligned in a tabular fashion in rows and columns.
+
+4. How Can You Create An Empty Dataframe In Pandas?
+-->We can create an empty dataframe with the help using DataFrame() like this df = pd.DataFrame()
+
+5. What Are The Most Important Features Of The Pandas Library?
+-->
+- DataFrame object for data manipulation with integrated indexing.
+- Tools for reading and writing data between in-memory data structures and different file formats.
+- Data alignment and integrated handling of missing data.
+- Reshaping and pivoting of data sets.
+- Label-based slicing, fancy indexing, and subsetting of large data sets.
+- Data structure column insertion and deletion.
+- Group by engine allowing split-apply-combine operations on data sets.
+- Data set merging and joining.
+- Hierarchical axis indexing to work with high-dimensional data in a lower-dimensional data structure.
+- Time series-functionality: Date range generation[4] and frequency conversion, moving window statistics, moving window linear regressions, date shifting and lagging.
+- Provides data filtration.
+
+6. What Is Groupby Function In Pandas?
+-->Groupby function split the data in groups based on given criteria.
