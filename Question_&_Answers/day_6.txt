@@ -1,0 +1,24 @@
+GO_STP_7716
+------------------------------------------------------
+
+Q.1 What is Matplotlib?
+ANS: Matplotlib is a ploting library in python which provides various visualization methods by which we can understand the dataset in better way.It is used to create high-quality graphs, charts, and figures. The library is extensive and capable of changing very minute details of a figure.
+
+Q.2 Why we need data visualization?
+ANS: Data visualization gives us a clear idea of what the information means by giving it visual context through maps or graphs. This makes the data more natural for the human mind to comprehend and therefore makes it easier to identify trends, patterns, and outliers within large data sets.
+
+Q.3 What do you mean by xlable(), ylable() and title() in Matplotlib?
+ANS: xlable(): Gives lable to x axis in ploting
+     ylable(): Gives lable to y axis in ploting
+     title(): Set title of the graph
+
+Q.4 How to create Legend in Matplotlib?
+ANS: With the help of plt.legend() we can create a legend.By default it is placed in the left top corner of the graph but can be change its position as we need.
+
+Q.5 What do you mean by bar() function, xticks() function, barh()function?
+ANS: bar(): It is used to represent bar graph.
+     xticks(): It sets the x-axis tick values, which are the locations along the x-axis where the tick marks appear.
+     barh():  It is used to make a horizontal bar plot.
+
+Q.6 what is Histograms?
+ANS: A histogram is an approximate representation of the distribution of numerical data.
