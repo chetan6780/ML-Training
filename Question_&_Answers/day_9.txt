@@ -1,0 +1,22 @@
+GO_STP_7716
+------------------------------------------------------
+1. What are the parameters of pandas fillna function?
+Ans:-value : Static, dictionary, array, series or dataframe to fill instead of NaN.
+-method : Method is used if user doesn’t pass any value. Pandas has different methods like bfill, backfill or ffill which fills the place with value in the Forward index or Previous/Back respectively.
+-axis: axis takes int or string value for rows/columns. Input can be 0 or 1 for Integer and ‘index’ or ‘columns’ for String
+-inplace: It is a boolean which makes the changes in data frame itself if True.
+-limit : This is an integer value which specifies maximum number of consequetive forward/backward NaN value fills.
+-downcast : It takes a dict which specifies what dtype to downcast to which one. Like Float64 to int64.
+**kwargs : Any other Keyword arguments
+
+2. How does the dropna () function in pandas work?
+Ans: dropna() function return Index without NA/NaN values. All the missing values are removed and a new object is returned which does not have any NaN values present in it. If the Index is a MultiIndex, drop the value when any or all levels are NaN.
+
+3. What is Multi Linear Regression?
+Ans:ultiple linear regression (MLR), also known simply as multiple regression, is a statistical technique that uses several explanatory variables to predict the outcome of a response variable. The goal of multiple linear regression (MLR) is to model the linear relationship between the explanatory (independent) variables and response (dependent) variable.
+
+4. How to drop a column in Pandas?
+Ans: DataFrame has a method called drop() that removes rows or columns according to specify column(label) names and corresponding axis. 
+
+5. What does random_number in data split?
+Ans:A random_number in Python is any number in a range we decide. From initializing weights in an ANN to splitting data into random train and test sets, the need for generating random numbers is apparent. Another use-case could be the random shuffling of a training dataset in stochastic gradient descent.

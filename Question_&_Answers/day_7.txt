@@ -1,0 +1,21 @@
+GO_STP_7716
+------------------------------------------------------
+
+1. What is Supervised Machine Learning?
+ANS:Supervised learning, as the name indicates, has the presence of a supervisor as a teacher. Basically supervised learning is when we teach or train the machine using data that is well labeled. Which means some data is already tagged with the correct answer. After that, the machine is provided with a new set of examples(data) so that the supervised learning algorithm analyses the training data(set of training examples) and produces a correct outcome from labeled data. 
+
+2. What is Linear Regression?
+ANS:linear regression is a statistical method that allows us to summarize and study relationships between two continuous (quantitative) variables: One variable, denoted x, is regarded as the predictor, explanatory, or independent variable.
+
+3. What does train_test_split function?
+ANS:train_test_split is a function in Sklearn model selection for splitting data arrays into two subsets: for training data and for testing data. With this function, you don't need to divide the dataset manually. By default, Sklearn train_test_split will make random partitions for the two subsets.
+
+4. What is test_size and random_state?
+ANS:test_size- This parameter specifies the size of the testing dataset. The default state suits the training size. It will be set to 0.25 if the training size is set to default.
+random_state- The default mode performs a random split using np.random Alternatively, we can add an integer using an exact number.
+
+5. How does random_state manipulates machine learning model?
+ANS:random_state parameter is used for initializing the internal random number generator, which will decide the splitting of data into train and test indices in our case. Setting random_state a fixed value will guarantee that the same sequence of random numbers is generated each time when we run the code.
+
+6. What is scikit Learn ?
+ANS:Scikit-learn is an open source machine learning library that supports supervised and unsupervised learning. It also provides various tools for model fitting, data preprocessing, model selection and evaluation, and many other utilities.

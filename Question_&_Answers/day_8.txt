@@ -1,0 +1,17 @@
+GO_STP_7716
+------------------------------------------------------
+
+1. What is MSE?
+ANS: MSE (mean square error) simply refers to the mean of the squared difference between the predicted parameter and the observed parameter.
+
+2. What is gradient descent?
+ANS: Gradient descent is an optimization algorithm that's used when training a machine learning model. It's based on a convex function and tweaks its parameters iteratively to minimize a given function to its local minimum.
+
+3. What is joblib?
+ANS: Joblib is a set of tools to provide lightweight pipelining in Python. In particular:
+1)transparent disk-caching of functions and lazy re-evaluation (memoize pattern)
+2)easy simple parallel computing
+Joblib is optimized to be fast and robust on large data in particular and has specific optimizations for numpy arrays
+
+5. What is pickle?
+ANS: Pickle is a python module used to serialize a python object into a binary format and deserialize it back to the python object.
