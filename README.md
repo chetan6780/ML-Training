@@ -9,9 +9,10 @@
 | [Class-4][y_4] | [Q&A-4](Question_%26_Answers/day_4.txt) | [Python-3](Assignments/PY_3.ipynb)| [Get Pdf][p_3] |
 | [Class-5][y_5] | [Q&A-5](Question_%26_Answers/day_5.txt) | [NumPy](Assignments/DS_1.ipynb) & [Pandas](Assignments/DS_2.ipynb)| [np][p_4] & [pd][p_5]|
 | [Class-6][y_6] | [Q&A-6](Question_%26_Answers/day_6.txt) | [Matplotlib](Assignments/DS_3.ipynb)| [Get Pdf][p_6] |
-| [Class-7][y_7] | [Q&A-7](Question_%26_Answers/day_7.txt) | [Linear regression](Assignments/ML_1.ipynb)| [Get Pdf][p_7] |
+| [Class-7][y_7] | [Q&A-7](Question_%26_Answers/day_7.txt) | [Linear regression](Assignments/ML_1.ipynb)|[Get Pdf][p_7] |
 | [Class-8][y_8] | [Q&A-8](Question_%26_Answers/day_8.txt) | NA | NA |
-| [Class-9][y_9] | [Q&A-9](Question_%26_Answers/day_9.txt) | NA | NA |
+| [Class-9][y_9] | [Q&A-9](Question_%26_Answers/day_9.txt) | [Multiple Linear Regression](Assignments/ML_2.ipynb)|[Get Pdf][p_8] | NA |
+| [Class-10][y_10] | [Q&A-10](Question_%26_Answers/day_10.txt) | NA | NA |
 
 
 <!-- Links for youtube classes -->
@@ -24,6 +25,7 @@
 [y_7]: https://youtu.be/xERCNJK-1KQ
 [y_8]: https://youtu.be/s2tSEEUuoNQ
 [y_9]: https://youtu.be/aJro56kMXww
+[y_10]: https://youtu.be/HQMAoctUFOs
 
 <!-- Links for assignments pdfs -->
 [p_1]: https://drive.google.com/file/d/1anzoBiswsJFvNiN0ZvsggtDfZuTDQyl5/view?usp=sharing
@@ -33,3 +35,4 @@
 [p_5]: https://drive.google.com/file/d/1ZfzN0_SAxT-NupbgpdRCBX0GZz_4521t/view?usp=sharing
 [p_6]: https://drive.google.com/file/d/1WSAICAbs3bPFE9rqwXkU5nfdnxBxN2dV/view?usp=sharing
 [p_7]: https://drive.google.com/file/d/1xDHGDKL8khA6AiM-zOQl2OqAhqZtCV-n/view?usp=sharing
+[p_8]: https://drive.google.com/file/d/1Y1nUwcqhhFcemtPvZl6rwjMfAHGmfsE2/view?usp=sharing
