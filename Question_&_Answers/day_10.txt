@@ -1,0 +1,16 @@
+GO_STP_7716
+------------------------------------------------------
+1. What is Classification?
+Ans: Classification is the process of predicting the class of given data points. Classes are sometimes called as targets/ labels or categories. Classification predictive modeling is the task of approximating a mapping function (f) from input variables (X) to discrete output variables (y).
+
+2. What is Regression?
+Ans: Regression analysis consists of a set of machine learning methods that allow us to predict a continuous outcome variable (y) based on the value of one or multiple predictor variables (x). Briefly, the goal of regression model is to build a mathematical equation that defines y as a function of the x variables.
+
+3. What is the difference between logistic regression and linear regression?
+Ans: Linear regression is used to predict the continuous dependent variable using a given set of independent variables. Logistic Regression is used to predict the categorical dependent variable using a given set of independent variables.
+
+4. What is Confusion Matrix in Machine Learning?
+Ans: A Confusion matrix is an N x N matrix used for evaluating the performance of a classification model, where N is the number of target classes. The matrix compares the actual target values with those predicted by the machine learning model.
+
+5. Which is a binary problem in logistic regression?
+Ans: The binary classifier classifies the data into two types. simply yes or no. To determine whether the result is "yes" or "no", we will use a probability function which gives a number from 0 to 1 indicating how likely this observation will belong to the classification that we have currently determined to be "yes".
