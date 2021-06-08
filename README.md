@@ -13,6 +13,7 @@
 | [Class-8][y_8] | [Q&A-8](Question_%26_Answers/day_8.txt) | NA | NA |
 | [Class-9][y_9] | [Q&A-9](Question_%26_Answers/day_9.txt) | [Multiple Linear Regression](Assignments/ML_2.ipynb)|[Get Pdf][p_8] | NA |
 | [Class-10][y_10] | [Q&A-10](Question_%26_Answers/day_10.txt) | NA | NA |
+| [Class-11][y_11] | [Q&A-11](Question_%26_Answers/day_11.txt) | NA | NA |
 
 
 <!-- Links for youtube classes -->
@@ -26,6 +27,7 @@
 [y_8]: https://youtu.be/s2tSEEUuoNQ
 [y_9]: https://youtu.be/aJro56kMXww
 [y_10]: https://youtu.be/HQMAoctUFOs
+[y_11]: https://youtu.be/PGUgI4LoRbE
 
 <!-- Links for assignments pdfs -->
 [p_1]: https://drive.google.com/file/d/1anzoBiswsJFvNiN0ZvsggtDfZuTDQyl5/view?usp=sharing

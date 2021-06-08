@@ -1,0 +1,39 @@
+GO_STP_7716
+------------------------------------------------------
+1. What is pandas dummy variable?
+Ans: A dataset may contain various type of values, sometimes it consists of categorical values. So, in-order to use those categorical value for programming efficiently we create dummy variables. A dummy variable is a binary variable that indicates whether a separate categorical variable takes on a specific value. 
+
+2. What is the difference between OneHotEncoder and Get_dummies?
+Ans: Both OneHotEncoder and Get_dummies are used to encode the categorical variables. But the difference is that the Get_dummies will generate the dummy variable trap whereas OneHotEncoder directly gives the result after removing the dummy variable trap.
+
+3. What is Sklearn LabelEncoder?
+Ans: Sklearn LabelEncoder is an efficient tool for encoding levels of categorical features into numeric values. It assigns values from 0 to n-1 where n is the number of distinct labels present if any label repeats it just assigns the value assigned before itself
+
+4. What is the difference between LabelEncoder and Get_dummies?
+Ans: LabelEncoder is used to convert a categorical variable class to numerical.get_dummies is used to convert categorical variables to dummy variables for easy comparison between variables.Onehotencoder cannot process string values directly. If your nominal features are strings, then you need to first map them into integers. pandas. get_dummies is kind of the opposite.
+
+5. What is unsupervised learning?
+Ans: Unsupervised learning is the training of a machine using information that is neither classified nor labeled and allowing the algorithm to act on that information without guidance. Here the task of the machine is to group unsorted information according to similarities, patterns, and differences without any prior training of data.
+
+6. Where is unsupervised learning used?
+Ans: Unsupervised learning is commonly used for finding meaningful patterns and groupings inherent in data, extracting generative features, and exploratory purposes.
+
+7. What is unsupervised learning example?
+Ans: Data analysis, cross-selling strategies, customer segmentation, and image recognition.
+
+8. What is the difference between supervised and unsupervised learning?
+Ans: 
+1- supervised machine learning algorithms are trained using labeled data while unsupervised learning algorithms are used against data that is not labeled.
+2- unsupervised learning is complex method while supervised learning is comparatively simple.
+3- supervised learning have more accuracy than unsupervised learning.
+
+9. What is meant by K-means clustering?
+Ans: K-means clustering is a type of unsupervised learning, which is used when you have unlabeled data (i.e., data without defined categories or groups). The goal of this algorithm is to find groups in the data, with the number of groups represented by the variable K. The algorithm works iteratively to assign each data point to one of K groups based on the features that are provided. Data points are clustered based on feature similarity. 
+
+10. What are the basic steps for K-means clustering?
+Ans: 
+1. Assign a fixed number of centroids randomly in the parameter space (the number of centroids will define the number of clusters formed at the end of execution of the algorithm). These centroids need not be one of the points in the observation set, and can literally be random coordinates in the multi-dimensional space that we have.
+2. Calculate the closest centroid from each data point in the observation set and assign the data point to that centroid's cluster.
+3. Move the centroid to the 'center-of-mass' of the cluster that it has created with help of our data points from observation set.
+4. Repeat Step 2 and see if any points have changed their clusters, from the ones they were previously assigned. If the condition holds true then move to Step 3 otherwise proceed to Step 5.
+5. Finish
