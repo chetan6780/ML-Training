@@ -1,0 +1,22 @@
+GO_STP_7716
+------------------------------------------------------
+1. What are the most practical applications of k-means?
+Ans: k-means can typically be applied to data that has a smaller number of dimensions, is numeric, and is continuous. think of a scenario in which you want to make groups of similar things from a randomly distributed collection of things; k-means is very suitable for such scenarios.Ex. document clustering, identifying crime-prone areas, customer segmentation, insurance fraud detection, public transport data analysis, clustering of IT alerts etc
+
+2. What is elbow method?
+Ans: The elbow method is a heuristic used in determining the number of clusters in a data set. The method consists of plotting the explained variation as a function of the number of clusters, and picking the elbow of the curve as the number of clusters to use.
+
+3. How is the elbow method used in clustering?
+Ans: The elbow method runs k-means clustering on the dataset for different k values and then for each value of k computes an average score for all clusters and constructs a plot. By default, the distortion score is the sum of square distances from each point to its assigned center. The corresponding k value at elbow point of the plot is the optimal number of clusters to use.
+
+4. How to plot WCSS against an increasing k?
+Ans: An ideal way to figure out the right number of cluster would be to calculate the Within-Cluster-Sum-of-Squares (WCSS). WCSS is the sum of squares of the distance of each data point in all clusters to their respective centroid. The idea is to minimise the sum. When we plot the WCSS with the K value, the plot looks like an Elbow. As the number of clusters increases, the WCSS value will decrease.
+
+5. What is Seaborn used for?
+Ans: Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+
+6. What is difference between Matplotlib and Seaborn?
+Ans: seaborn utilises fascinating themes, while matplotlib used for making basic graphs. Seaborn contains a few plots and patterns for data visualisation, while in matplotlib, datasets are visualised with the assistance of lines, scatter plots, pie charts, histograms, bar-graphs, etc. 
+
+7. What is hue in Seaborn plots?
+Ans: In seaborn, the hue parameter determines which column in the data frame should be used for colour encoding.
