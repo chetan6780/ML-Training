@@ -1,0 +1,15 @@
+GO_STP_7716
+------------------------------------------------------
+1. What is Decision tree in Machine Learning with example?
+Ans: Decision Trees are a type of Supervised Machine Learning .A decision tree is a very specific type of probability tree that enables you to make a decision about some kind of process.Example:e.g. whether a coin flip comes up heads or tails, each branch represents the outcome of the test, and each leaf node represents a class label decision taken after computing all attributes.
+
+2. Why Decision tree is used in Machine Learning?
+Ans: The goal of using a Decision Tree is to create a training model that can use to predict the class or value of the target variable by learning simple decision rules inferred from prior data(training data). In Decision Trees, for predicting a class label for a record we start from the root of the tree.
+
+3. What is entropy in decision tree?
+Ans: Entropy, as it relates to machine learning, is a measure of the randomness in the information being processed. The higher the entropy, the harder it is to draw any conclusions from that information.
+
+4. What is information gain and Gini index?
+Ans: In Decision Tree the major challenge is to identification of the attribute for the root node in each level. This process is known as attribute selection. We have two popular attribute selection measures:
+1. Information Gain: When we use a node in a decision tree to partition the training instances into smaller subsets the entropy changes. Information gain is a measure of this change in entropy.
+2. Gini Index: Gini Index is a metric to measure how often a randomly chosen element would be incorrectly identified. It means an attribute with lower Gini index should be preferred. Sklearn supports “Gini” criteria for Gini Index and by default, it takes “gini” value.

@@ -1,0 +1,18 @@
+GO_STP_7716
+------------------------------------------------------
+1. What is module in Python with example?
+Ans: Modules refer to a file containing Python statements and definitions.A file containing Python code, for example: example.py, is called a module, and its module name would be example.We use modules to break down large programs into small manageable and organized files. Furthermore, modules provide reusability of code.
+ 
+2. What is difference between module package and library?
+Ans:The module is a simple Python file that contains collections of functions and global variables and with having a .py extension file. It is an executable file and to organize all the modules we have the concept called Package in Python.
+The package is a simple directory having collections of modules. This directory contains Python modules and also having __init__.py file by which the interpreter interprets it as a Package. The package is simply a namespace. The package also contains sub-packages inside it.
+ 
+3. How do I create a Python module?
+Ans: To create a python module we just need to create a python file (.py) and save it , we call it module . we can use any function define inside that file by important it in another file 
+ 
+4. What is class and object in Python?
+Ans: A class is a code template for creating objects. Objects have member variables and have behaviour associated with them. In python a class is created by the keyword class . An object is created using the constructor of the class. This object will then be called the instance of the class.
+ 
+5. What is Self In __init__ Python?
+Ans: In the init method, self refers to the newly created object; in other class methods, it refers to the instance whose method was called. Python doesn't force you on using "self". You can give it any name you want. But remember the first argument in a method definition is a reference to the object
+ 
