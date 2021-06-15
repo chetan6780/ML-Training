@@ -1,0 +1,31 @@
+GO_STP_7716
+------------------------------------------------------
+1. What is support vector machines with example?
+Ans: Support Vector Machine (SVM) is a supervised machine learning algorithm capable of performing classification, regression, and even outlier detection. The linear SVM classifier works by drawing a straight line between two classes. The SVM classifier is a frontier that best segregates the two classes (hyper-plane/ line).
+
+2. What does Hyperplane in SVM mean?
+Ans: A hyperplane in an n-dimensional Euclidean space is a flat, n-1 dimensional subset of that space that divides the space into two disconnected parts.
+
+3. Write some Support Vector Machine (SVM) Usecases
+Ans: 1. Inverse Geosounding Problem
+    2. Seismic Liquefaction Potential
+    3. Protein Fold and Remote Homology Detection
+    4. Data Classification using SSVM
+    5. Facial Expression Classification
+    6. Texture Classification using SVM
+    7. Text Classification
+    8. Speech Recognition
+    9. Stenography Detection in Digital Images
+    10. Cancer Diagnosis and Prognosis
+
+4. What is kernel in SVC?
+Ans: “Kernel” is used due to set of mathematical functions used in Support Vector Machine provides the window to manipulate the data. So, Kernel Function generally transforms the training set of data so that a non-linear decision surface is able to transformed to a linear equation in a higher number of dimension spaces.
+
+5. What is List comprehension?
+Ans: List comprehension is basically creating lists based on existing iterables
+
+6. When do you need list comprehension in Python?
+Ans: when we want to reduce code size and also increase the speed of execution of our code we use list comprehension
+
+7. How does the condition work in Python list comprehension?
+Ans: Python List comprehension can utilize conditional statement to modify existing list (or other tuples). We will create list that uses mathematical operators, integers, and range().

@@ -17,6 +17,9 @@
 | [Class-12][y_12] | [Q&A-12](Question_%26_Answers/day_12.txt) | NA | NA |
 | [Class-13][y_13] | [Q&A-13](Question_%26_Answers/day_13.txt) | NA | NA |
 | [Class-14][y_14] | [Q&A-14](Question_%26_Answers/day_14.txt) | NA | NA |
+| [Class-15][y_15] | [Q&A-15](Question_%26_Answers/day_15.txt) | NA | NA |
+| [Class-16][y_16] | [Q&A-16](Question_%26_Answers/day_16.txt) | NA | NA |
+| [Class-17][y_17] | [Q&A-17](Question_%26_Answers/day_17.txt) | NA | NA |
 
 
 <!-- Links for youtube classes -->
@@ -34,6 +37,9 @@
 [y_12]: https://youtu.be/qz9g5pgdUHw
 [y_13]: https://youtu.be/Nk6e4wht1GQ
 [y_14]: https://youtu.be/6YIgeK0ys2g
+[y_15]: https://youtu.be/EesJd0e62hM
+[y_16]: https://youtu.be/m-qoDWOeTvo
+[y_17]: https://youtu.be/eFxOekuQZ3M
 
 <!-- Links for assignments pdfs -->
 [p_1]: https://drive.google.com/file/d/1anzoBiswsJFvNiN0ZvsggtDfZuTDQyl5/view?usp=sharing

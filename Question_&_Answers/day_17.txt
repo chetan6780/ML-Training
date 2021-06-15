@@ -1,0 +1,26 @@
+GO_STP_7716
+------------------------------------------------------
+1. What is Exploratory Data Analysis (EDA) ?
+Ans: Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.
+
+2. Why do we need exploratory data analysis (EDA)?
+Ans: The main purpose of EDA is to help look at data before making any assumptions. It can help identify obvious errors, as well as better understand patterns within the data, detect outliers or anomalous events, find interesting relations among the variables.
+
+3. What are the steps in exploratory data analysis (EDA)?
+Ans:- Identification of variables and data types.
+- Analyzing the basic metrics.
+- Non-Graphical Univariate Analysis.
+- Graphical Univariate Analysis.
+- Bivariate Analysis.
+- Variable transformations.
+- Missing value treatment.
+- Outlier treatment.
+
+4. What Is Bivariate Analysis?
+Ans: Bivariate analysis means the analysis of bivariate data. It is one of the simplest forms of statistical analysis, used to find out if there is a relationship between two sets of values. It usually involves the variables X and Y.
+
+5. What Is Univariate Analysis?
+Ans: Univariate analysis is the simplest form of analyzing data. “Uni” means “one”, so in other words your data has only one variable. It doesn’t deal with causes or relationships (unlike regression ) and it’s major purpose is to describe; It takes data, summarizes that data and finds patterns in the data.
+
+6. What is box plots in seaborn?
+Ans: Boxplots are used to visualize distributions. Thats very useful when you want to compare data between two groups. Sometimes a boxplot is named a box-and-whisker plot. Any box shows the quartiles of the dataset while the whiskers extend to show the rest of the distribution.

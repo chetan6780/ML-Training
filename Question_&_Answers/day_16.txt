@@ -1,0 +1,19 @@
+GO_STP_7716
+------------------------------------------------------
+1. What is a Feature?
+Ans: A feature is a measurable property of the object you’re trying to analyze. In datasets, features appear as columns.
+
+2. What is feature Engineering?
+Ans: Feature engineering is the process of transforming raw data into features that better represent the underlying problem to the predictive models, resulting in improved model accuracy on unseen data.
+
+3. What is an outlier in machine learning?
+Ans: An outlier is an object that deviates significantly from the rest of the objects. They can be caused by measurement or execution error. The analysis of outlier data is referred to as outlier analysis or outlier mining.
+
+4. How does machine learning deal with outliers?
+Ans: Assign a new value. If an outlier seems to be due to a mistake in your data, try imputing a new value. Common imputation methods include using the mean of a variable or utilizing a regression model to predict the missing value. Try a transformation.
+
+5. What is a heat map used for?
+Ans: The primary purpose of Heat Maps is to better visualize the volume of locations/events within a dataset and assist in directing viewers towards areas on data visualizations that matter most.
+
+6. What is Z score in data science?
+Ans: A z-score gives you an idea of how far from the mean a data point is. But more technically it's a measure of how many standard deviations below or above the population mean a raw score is. A z-score can be placed on a normal distribution curve.
