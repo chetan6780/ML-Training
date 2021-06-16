@@ -11,15 +11,15 @@
 | [Class-6][y_6] | [Q&A-6](Question_%26_Answers/day_6.txt) | [Matplotlib](Assignments/DS_3.ipynb)| [Get Pdf][p_6] |
 | [Class-7][y_7] | [Q&A-7](Question_%26_Answers/day_7.txt) | [Linear regression](Assignments/ML_1.ipynb)|[Get Pdf][p_7] |
 | [Class-8][y_8] | [Q&A-8](Question_%26_Answers/day_8.txt) | NA | NA |
-| [Class-9][y_9] | [Q&A-9](Question_%26_Answers/day_9.txt) | [Multiple Linear Regression](Assignments/ML_2.ipynb)|[Get Pdf][p_8] | NA |
+| [Class-9][y_9] | [Q&A-9](Question_%26_Answers/day_9.txt) | [Multiple Linear Regression](Assignments/ML_2.ipynb)|[Get Pdf][p_8] |
 | [Class-10][y_10] | [Q&A-10](Question_%26_Answers/day_10.txt) | NA | NA |
-| [Class-11][y_11] | [Q&A-11](Question_%26_Answers/day_11.txt) | NA | NA |
-| [Class-12][y_12] | [Q&A-12](Question_%26_Answers/day_12.txt) | NA | NA |
+| [Class-11][y_11] | [Q&A-11](Question_%26_Answers/day_11.txt) | [Logistic Regression](Assignments/ML_3.ipynb) | NA |
+| [Class-12][y_12] | [Q&A-12](Question_%26_Answers/day_12.txt) | [Dummy Variables and One-hot encoding](Assignments/ML_4.ipynb) | NA |
 | [Class-13][y_13] | [Q&A-13](Question_%26_Answers/day_13.txt) | NA | NA |
-| [Class-14][y_14] | [Q&A-14](Question_%26_Answers/day_14.txt) | NA | NA |
+| [Class-14][y_14] | [Q&A-14](Question_%26_Answers/day_14.txt) | [Decision Tree](Assignments/ML_5.ipynb) | NA |
 | [Class-15][y_15] | [Q&A-15](Question_%26_Answers/day_15.txt) | NA | NA |
-| [Class-16][y_16] | [Q&A-16](Question_%26_Answers/day_16.txt) | NA | NA |
-| [Class-17][y_17] | [Q&A-17](Question_%26_Answers/day_17.txt) | NA | NA |
+| [Class-16][y_16] | [Q&A-16](Question_%26_Answers/day_16.txt) | [Support Vector Machine](Assignments/ML_6.ipynb) | NA |
+| [Class-17][y_17] | [Q&A-17](Question_%26_Answers/day_17.txt) | [EDA Titanic Dataset](Assignments/ML_7.ipynb) | NA |
 
 
 <!-- Links for youtube classes -->
